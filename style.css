@@ -232,7 +232,7 @@ body {
 
 
 .mail-cont {
-    border: 2px solid blue;
+    
     display: flex;
     flex-wrap: wrap;
     gap: 8px;
